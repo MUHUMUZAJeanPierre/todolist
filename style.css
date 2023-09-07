@@ -117,7 +117,7 @@ button{
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: #69b1c7;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
@@ -167,7 +167,7 @@ button{
 }
 
 #list-container span:hover{
-    background: #ff5945;
+    background: #69b1c7;
 }
 
 
